@@ -175,7 +175,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## Author
-
-- **Shubh Shrishrimal** - [GitHub Profile](https://github.com/shubh123a3)
 
