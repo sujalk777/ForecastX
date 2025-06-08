@@ -159,8 +159,6 @@ print("Num GPUs Available: ", len(tf.config.list_physical_devices('GPU')))
 
 The model’s performance is evaluated based on Mean Squared Error (MSE), and the predicted stock prices are plotted alongside the actual stock prices for comparison.
 
----
-
 
 
 
