@@ -169,7 +169,6 @@ The model’s performance is evaluated based on Mean Squared Error (MSE), and th
 
 ---
 
-## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
