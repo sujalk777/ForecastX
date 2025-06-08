@@ -3,14 +3,6 @@
 # Stock Price Prediction Using LSTM
 
 
-
-https://github.com/user-attachments/assets/82af8241-ec86-4c27-b30b-57641a5ab5e7
-
-
-
-
-
-
 This project predicts the stock prices of **Tata Motors** using historical stock price data from **2010 to present**. The model is built using **Long Short-Term Memory (LSTM)**, a type of recurrent neural network (RNN), and is implemented in **TensorFlow** with GPU acceleration.
 
 ## Project Overview
